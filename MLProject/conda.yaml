@@ -2,7 +2,7 @@ name: credit-scoring-env
 channels:
   - conda-forge
 dependencies:
-  - python=3.12.7
+  - python=3.10
   - pandas
   - scikit-learn
   - pip
